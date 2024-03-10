@@ -15,7 +15,7 @@ int main() {
 	for (int i = 0; i < K; i++) {
 		cin >> n;
 		if (n != 0) {
-			s.push(n);
+			s.push(n); //github
 		}
 		else
 			s.pop();
